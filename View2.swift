@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct View1: View {
+struct View2: View {
 
     var body: some View {
         Text("My View 2")
