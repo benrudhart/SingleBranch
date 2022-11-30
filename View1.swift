@@ -5,11 +5,11 @@ struct View1: View {
     var body: some View {
         Group {
             Text("Hello World!")
-            button
+            button2
         }
     }
 
-    var button: some View {
+    var button2: some View {
         Text("Press me now!")
     }
 }
