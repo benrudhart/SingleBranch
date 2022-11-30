@@ -10,6 +10,6 @@ struct View1: View {
     }
 
     var button: some View {
-        Text("press me")
+        Text("Press me now!")
     }
 }
